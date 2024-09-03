@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rogrelorgu.github.io/sitemap.html.gz
+Sitemap: https://rogrelorgu.github.io/app/sitemap.html.gz
+Sitemap: https://rogrelorgu.github.io/assets/sitemap.html.gz
+Sitemap: https://rogrelorgu.github.io/css/sitemap.html.gz
+Sitemap: https://rogrelorgu.github.io/includes/sitemap.html.gz
+Sitemap: https://rogrelorgu.github.io/item/sitemap.html.gz
+Sitemap: https://rogrelorgu.github.io/src/sitemap.html.gz
